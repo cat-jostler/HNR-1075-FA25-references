@@ -4,19 +4,11 @@ Amankwah-Amoah, J., Khan, Z., Wood, G., & Knight, G. (2021). COVID-19 and digita
 
 AY 2025 CCCS - Course Enrollment and Offerings by Delivery Method—Accessible.pdf. (n.d.). Colorado Community College System. Retrieved November 16, 2025, from https://drive.google.com/file/d/1KYKD7Sj0bwUQCBlFYBFIhtRTr3H9q6I-/view?usp=drive_link&usp=embed_facebook
 
-Borowski, E., & Stathopoulos, A. (2023). Nowhere to go? A study of marginalization, social connection, and mental health outcomes among young adults experiencing the COVID-19 pandemic. Journal of Transport & Health, 30, 101589. https://doi.org/10.1016/j.jth.2023.101589
-
 Consumer Price Index, Denver-Aurora-Lakewood—July 2025. (n.d.). Bureau of Labor Statistics. Retrieved November 16, 2025, from https://www.bls.gov/regions/mountain-plains/news-release/consumerpriceindex_denver.htm
 
 Dingli, A., & Seychell, D. (2015). The new digital natives: Cutting the Chord. Springer.
 
-Finlay, J., Esposito, M., Kim, M. H., Gomez-Lopez, I., & Clarke, P. (2019). Closure of ‘third places’? Exploring potential consequences for collective health and wellbeing. Health & Place, 60, 102225. https://doi.org/10.1016/j.healthplace.2019.102225
-
-Gingernos. (2025, September 29). What kinds of third spaces in Denver? Reddit. https://www.reddit.com/r/Denver/comments/1ntx2yw/what_kinds_of_third_spaces_in_denver/ ​
-
 Halvorson, W. (2011). Third places take first place in Second Life: Developing a scale to measure the 'stickiness' of virtual world sites. Journal of Virtual Worlds Research, 3(3). https://www.researchgate.net/publication/327326310_Third_Places_Take_First_Place_in_Second_Life_Developing_a_Scale_to_Measure_the_'Stickiness'_of_Virtual_World_Sites
-
-Jeffres, L. W., Bracken, C. C., Jian, G., & Casey, M. F. (2009). The Impact of Third Places on Community Quality of Life. Applied Research in Quality of Life, 4(4), 333–345. https://doi.org/10.1007/s11482-009-9084-8
 
 Markiewicz, E. (2020). Third Places in the Era of Virtual Communities. Studia Periegetica, 28 (4)(4), 9-21. https://doi.org/10.26349/st.per.0028.01
 
@@ -26,15 +18,24 @@ Mena-Guacas, A. F., Meza-Morales, J. A., Fernández, E., & López-Meneses, E. (2
 
 Memarovic, N., Fels, S., Anacleto, J., Calderon, R., Gobbo, F., & Carroll, J. M. (2014). Rethinking Third Places: Contemporary Design With Technology. The Journal of Community Informatics, 10(3). https://doi.org/10.15353/joci.v10i3.3440
 
-missmcpooch. (2018, April 16). Third places in Denver? Reddit.
-https://www.reddit.com/r/Denver/comments/8cru0y/third_places_in_denver/
-
 Oldenburg, R., & Brissett, D. (1982). The Third Place. Qualitative Sociology, 5(4), 265-284.
 
 Oldenburg, R. (1989). The Great Good Place: Cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day. Paragon House.
 
 Seamon, D. (1979). A geography of the lifeworld: Movement, rest, and encounter. St. Martin’s Press.
 
-Scholkmann, A., Olsen, D. S., & Wollscheid, S. (2024). Perspectives on disruptive change in higher education. A critical review of digital transformation during COVID-19. Higher Education Research & Development, 43(6), 1355–1369. https://doi.org/10.1080/07294360.2024.2325140
-
 Vaux, D. E., & Langlais, M. R. (2023). Reframing Third Places: Environmental Changes of Merging Places During COVID-19. Journal of Interior Design, 48(1), 12–28. https://doi.org/10.1111/joid.122321
+
+//Dug up, but unused in the final project:
+Borowski, E., & Stathopoulos, A. (2023). Nowhere to go? A study of marginalization, social connection, and mental health outcomes among young adults experiencing the COVID-19 pandemic. Journal of Transport & Health, 30, 101589. https://doi.org/10.1016/j.jth.2023.101589
+
+Finlay, J., Esposito, M., Kim, M. H., Gomez-Lopez, I., & Clarke, P. (2019). Closure of ‘third places’? Exploring potential consequences for collective health and wellbeing. Health & Place, 60, 102225. https://doi.org/10.1016/j.healthplace.2019.102225
+
+Gingernos. (2025, September 29). What kinds of third spaces in Denver? Reddit. https://www.reddit.com/r/Denver/comments/1ntx2yw/what_kinds_of_third_spaces_in_denver/ ​
+
+Jeffres, L. W., Bracken, C. C., Jian, G., & Casey, M. F. (2009). The Impact of Third Places on Community Quality of Life. Applied Research in Quality of Life, 4(4), 333–345. https://doi.org/10.1007/s11482-009-9084-8
+
+missmcpooch. (2018, April 16). Third places in Denver? Reddit.
+https://www.reddit.com/r/Denver/comments/8cru0y/third_places_in_denver/
+
+Scholkmann, A., Olsen, D. S., & Wollscheid, S. (2024). Perspectives on disruptive change in higher education. A critical review of digital transformation during COVID-19. Higher Education Research & Development, 43(6), 1355–1369. https://doi.org/10.1080/07294360.2024.2325140
